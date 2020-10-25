@@ -1,0 +1,15 @@
+.navbar-container {
+  width: 100vw;
+  height: 50px;
+  background: #292929;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.navbar-container  .text-link {
+  padding: 5px 100px;
+  text-decoration: none;
+  color: whitesmoke;
+}
